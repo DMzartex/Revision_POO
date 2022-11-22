@@ -1,0 +1,15 @@
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT4_Cercle\ACT4_Cercle\bin\Debug\net6.0\ACT4_Cercle.exe
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT4_Cercle\ACT4_Cercle\bin\Debug\net6.0\ACT4_Cercle.deps.json
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT4_Cercle\ACT4_Cercle\bin\Debug\net6.0\ACT4_Cercle.runtimeconfig.json
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT4_Cercle\ACT4_Cercle\bin\Debug\net6.0\ACT4_Cercle.dll
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT4_Cercle\ACT4_Cercle\bin\Debug\net6.0\ACT4_Cercle.pdb
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT4_Cercle\ACT4_Cercle\obj\Debug\net6.0\ACT4_Cercle.csproj.AssemblyReference.cache
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT4_Cercle\ACT4_Cercle\obj\Debug\net6.0\ACT4_Cercle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT4_Cercle\ACT4_Cercle\obj\Debug\net6.0\ACT4_Cercle.AssemblyInfoInputs.cache
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT4_Cercle\ACT4_Cercle\obj\Debug\net6.0\ACT4_Cercle.AssemblyInfo.cs
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT4_Cercle\ACT4_Cercle\obj\Debug\net6.0\ACT4_Cercle.csproj.CoreCompileInputs.cache
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT4_Cercle\ACT4_Cercle\obj\Debug\net6.0\ACT4_Cercle.dll
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT4_Cercle\ACT4_Cercle\obj\Debug\net6.0\refint\ACT4_Cercle.dll
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT4_Cercle\ACT4_Cercle\obj\Debug\net6.0\ACT4_Cercle.pdb
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT4_Cercle\ACT4_Cercle\obj\Debug\net6.0\ACT4_Cercle.genruntimeconfig.cache
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT4_Cercle\ACT4_Cercle\obj\Debug\net6.0\ref\ACT4_Cercle.dll
