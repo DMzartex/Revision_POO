@@ -1,0 +1,15 @@
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Complexe\ACT4_Complexe\bin\Debug\net6.0\ACT4_Complexe.exe
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Complexe\ACT4_Complexe\bin\Debug\net6.0\ACT4_Complexe.deps.json
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Complexe\ACT4_Complexe\bin\Debug\net6.0\ACT4_Complexe.runtimeconfig.json
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Complexe\ACT4_Complexe\bin\Debug\net6.0\ACT4_Complexe.dll
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Complexe\ACT4_Complexe\bin\Debug\net6.0\ACT4_Complexe.pdb
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Complexe\ACT4_Complexe\obj\Debug\net6.0\ACT4_Complexe.csproj.AssemblyReference.cache
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Complexe\ACT4_Complexe\obj\Debug\net6.0\ACT4_Complexe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Complexe\ACT4_Complexe\obj\Debug\net6.0\ACT4_Complexe.AssemblyInfoInputs.cache
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Complexe\ACT4_Complexe\obj\Debug\net6.0\ACT4_Complexe.AssemblyInfo.cs
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Complexe\ACT4_Complexe\obj\Debug\net6.0\ACT4_Complexe.csproj.CoreCompileInputs.cache
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Complexe\ACT4_Complexe\obj\Debug\net6.0\ACT4_Complexe.dll
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Complexe\ACT4_Complexe\obj\Debug\net6.0\refint\ACT4_Complexe.dll
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Complexe\ACT4_Complexe\obj\Debug\net6.0\ACT4_Complexe.pdb
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Complexe\ACT4_Complexe\obj\Debug\net6.0\ACT4_Complexe.genruntimeconfig.cache
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Complexe\ACT4_Complexe\obj\Debug\net6.0\ref\ACT4_Complexe.dll

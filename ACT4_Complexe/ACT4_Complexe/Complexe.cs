@@ -33,9 +33,21 @@ namespace ACT4_Complexe
 		public string AfficheComplexe()
 		{
 			string complexe ="";
-			complexe = $"({_reelle1.ToString("f2")};{_reelle2.ToString("f2")})";
+			complexe = $"({_reelle1.ToString("f2")}, {_reelle2.ToString("f2")})";
 			return complexe;
 
+		}
+
+		public double CalculeModule()
+		{
+			double moduleComplexe = Math.Sqrt(Math.Pow(_reelle1, 2) + Math.Pow(_reelle2, 2));
+			return moduleComplexe;
+		}
+
+		public void Ajout(float AjtReelle1, float AjtReelle2)
+		{
+			Reelle1 += AjtReelle1;
+			Reelle2 += AjtReelle2;
 		}
 
 
