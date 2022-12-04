@@ -10,36 +10,36 @@ namespace ACT4_Sandwich
 
 	internal class Sandwich
     {
-        private string[] proteine = new string[4] {"jambon","roast-beef","steak","salami"};
+        private string[] _proteine = new string[4] {"jambon","roast-beef","steak","salami"};
 
 		public string[] Proteine
 		{
-			get { return proteine; }
-			set { proteine = value; }
+			get { return _proteine; }
+			set { _proteine = value; }
 		}
 
-		private string[] condiments = new string[4] {"guacamole","moutarde","pesto","boursin"};
+		private string[] _condiments = new string[4] {"guacamole","moutarde","pesto","boursin"};
 
 		public string[] Condiments
 		{
-			get { return condiments; }
-			set { condiments = value; }
+			get { return _condiments; }
+			set { _condiments = value; }
 		}
 
-		private string[] pain = new string[4] {"pain gris","pain blanc","pain au noix","pain au céréales"};
+		private string[] _pain = new string[4] {"pain gris","pain blanc","pain au noix","pain au céréales"};
 
 		public string[] Pain
 		{
-			get { return pain; }
-			set { pain = value; }
+			get { return _pain; }
+			set { _pain = value; }
 		}
 
-		private string[] crudites = new string[4] {"salade","tomate","oignon","carotte"};
+		private string[] _crudites = new string[4] {"salade","tomate","oignon","carotte"};
 
 		public string[] Crudites
 		{
-			get { return crudites; }
-			set { crudites = value; }
+			get { return _crudites; }
+			set { _crudites = value; }
 		}
 
 		public string composeSandwich() {

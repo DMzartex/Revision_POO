@@ -1,0 +1,15 @@
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Bank\ACT4_Bank\bin\Debug\net6.0\ACT4_Bank.exe
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Bank\ACT4_Bank\bin\Debug\net6.0\ACT4_Bank.deps.json
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Bank\ACT4_Bank\bin\Debug\net6.0\ACT4_Bank.runtimeconfig.json
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Bank\ACT4_Bank\bin\Debug\net6.0\ACT4_Bank.dll
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Bank\ACT4_Bank\bin\Debug\net6.0\ACT4_Bank.pdb
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Bank\ACT4_Bank\obj\Debug\net6.0\ACT4_Bank.csproj.AssemblyReference.cache
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Bank\ACT4_Bank\obj\Debug\net6.0\ACT4_Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Bank\ACT4_Bank\obj\Debug\net6.0\ACT4_Bank.AssemblyInfoInputs.cache
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Bank\ACT4_Bank\obj\Debug\net6.0\ACT4_Bank.AssemblyInfo.cs
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Bank\ACT4_Bank\obj\Debug\net6.0\ACT4_Bank.csproj.CoreCompileInputs.cache
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Bank\ACT4_Bank\obj\Debug\net6.0\ACT4_Bank.dll
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Bank\ACT4_Bank\obj\Debug\net6.0\refint\ACT4_Bank.dll
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Bank\ACT4_Bank\obj\Debug\net6.0\ACT4_Bank.pdb
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Bank\ACT4_Bank\obj\Debug\net6.0\ACT4_Bank.genruntimeconfig.cache
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Revision_POO\ACT4_Bank\ACT4_Bank\obj\Debug\net6.0\ref\ACT4_Bank.dll
